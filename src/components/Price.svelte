@@ -25,8 +25,10 @@
       <span class="text-[#478E88]">R$ 197,00</span>
       por tempo limitado
     </h2>
-    <Button />
-    <p class="font-bold text-base mt-[-30px]">*Você será direcionado para a página de pagamento</p>
   </div>
+  <Button />
+  <p class="font-bold text-base mt-[-30px]">
+    *Você será direcionado para a página de pagamento
+  </p>
 
 </div>
