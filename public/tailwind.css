@@ -6,6 +6,42 @@
     html {
       font-family: 'Lato', system-ui, sans-serif;
     }
+    @font-face {
+        font-family: 'Poppins';
+        src: local('Poppins'), url('./fonts/poppins-v20-latin-400.woff') format('woff');
+        font-weight: 400
+    }
+
+    @font-face {
+        font-family: 'Poppins';
+        src: local('Poppins'), url('./fonts/poppins-v20-latin-700.woff') format('woff');
+        font-weight: 700
+    }
+    @font-face {
+        font-family: 'Poppins';
+        src: local('Poppins'), url('./fonts/poppins-v20-latin-500.woff') format('woff');
+        font-weight: 500
+    }
+    @font-face {
+        font-family: 'Poppins';
+        src: local('Poppins'), url('./fonts/poppins-v20-latin-800.woff') format('woff');
+        font-weight: 800
+    }
+    @font-face {
+        font-family: 'Poppins';
+        src: local('Poppins'), url('./fonts/poppins-v20-latin-900.woff') format('woff');
+        font-weight: 900
+    }
+    @font-face {
+        font-family: 'Lato';
+        src: local('Lato'), url('./fonts/lato-v23-latin-regular.woff') format('woff');
+        font-weight: 400
+    }
+    @font-face {
+        font-family: 'Lato';
+        src: local('Lato'), url('./fonts/lato-v23-latin-700.woff') format('woff');
+        font-weight: 700
+    }
 }
 
 @layer components {
