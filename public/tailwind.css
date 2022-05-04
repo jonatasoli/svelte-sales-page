@@ -9,38 +9,45 @@
     @font-face {
         font-family: 'Poppins';
         src: local('Poppins'), url('./fonts/poppins-v20-latin-400.woff') format('woff');
-        font-weight: 400
+        font-weight: 400;
+        font-display: swap;
     }
 
     @font-face {
         font-family: 'Poppins';
         src: local('Poppins'), url('./fonts/poppins-v20-latin-700.woff') format('woff');
-        font-weight: 700
+        font-weight: 700;
+        font-display: swap;
     }
     @font-face {
         font-family: 'Poppins';
         src: local('Poppins'), url('./fonts/poppins-v20-latin-500.woff') format('woff');
-        font-weight: 500
+        font-weight: 500;
+        font-display: swap;
     }
     @font-face {
         font-family: 'Poppins';
         src: local('Poppins'), url('./fonts/poppins-v20-latin-800.woff') format('woff');
-        font-weight: 800
+        font-weight: 800;
+        font-display: swap;
     }
     @font-face {
         font-family: 'Poppins';
         src: local('Poppins'), url('./fonts/poppins-v20-latin-900.woff') format('woff');
-        font-weight: 900
+        font-weight: 900;
+        font-display: swap;
     }
     @font-face {
         font-family: 'Lato';
         src: local('Lato'), url('./fonts/lato-v23-latin-regular.woff') format('woff');
-        font-weight: 400
+        font-weight: 400;
+        font-display: swap;
     }
     @font-face {
         font-family: 'Lato';
         src: local('Lato'), url('./fonts/lato-v23-latin-700.woff') format('woff');
-        font-weight: 700
+        font-weight: 700;
+        font-display: swap;
     }
 }
 
