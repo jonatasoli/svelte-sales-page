@@ -693,18 +693,6 @@ video {
 .mb-4 {
 	margin-bottom: 1rem;
 }
-.mb-8 {
-	margin-bottom: 2rem;
-}
-.mt-\[-10px\] {
-	margin-top: -10px;
-}
-.mt-\[-20px\] {
-	margin-top: -20px;
-}
-.mt-\[-50px\] {
-	margin-top: -50px;
-}
 .mt-\[-60px\] {
 	margin-top: -60px;
 }
@@ -719,21 +707,6 @@ video {
 }
 .h-44 {
 	height: 11rem;
-}
-.h-\[900px\] {
-	height: 900px;
-}
-.h-\[40000px\] {
-	height: 40000px;
-}
-.h-\[400px\] {
-	height: 400px;
-}
-.h-\[300px\] {
-	height: 300px;
-}
-.h-\[100px\] {
-	height: 100px;
 }
 .h-\[200px\] {
 	height: 200px;
@@ -771,35 +744,11 @@ video {
 .w-0 {
 	width: 0px;
 }
-.w-64 {
-	width: 16rem;
-}
-.w-72 {
-	width: 18rem;
-}
-.w-\[900px\] {
-	width: 900px;
-}
-.w-\[400px\] {
-	width: 400px;
-}
-.w-\[300px\] {
-	width: 300px;
-}
-.w-2\/3 {
-	width: 66.666667%;
-}
-.w-32 {
-	width: 8rem;
+.w-\[200px\] {
+	width: 200px;
 }
 .w-80 {
 	width: 20rem;
-}
-.w-\[100px\] {
-	width: 100px;
-}
-.w-\[200px\] {
-	width: 200px;
 }
 .flex-col {
 	flex-direction: column;
@@ -848,6 +797,10 @@ video {
 	--tw-bg-opacity: 1;
 	background-color: rgba(71, 142, 136, var(--tw-bg-opacity));
 }
+.bg-\[\#a81c0b\] {
+	--tw-bg-opacity: 1;
+	background-color: rgba(168, 28, 11, var(--tw-bg-opacity));
+}
 .bg-header {
 	background-image: url('images/Paris-a-noite.webp');
 }
@@ -890,10 +843,6 @@ video {
 .px-2 {
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
-}
-.py-16 {
-	padding-top: 4rem;
-	padding-bottom: 4rem;
 }
 .pt-9 {
 	padding-top: 2.25rem;
@@ -946,9 +895,6 @@ video {
 .text-sm {
 	font-size: .875rem;
 }
-.text-lg {
-	font-size: 1.125rem;
-}
 .text-\[14px\] {
 	font-size: 14px;
 }
@@ -975,9 +921,6 @@ video {
 }
 .leading-7 {
 	line-height: 1.75rem;
-}
-.leading-3 {
-	line-height: .75rem;
 }
 .leading-4 {
 	line-height: 1rem;
@@ -1011,14 +954,6 @@ video {
 	--tw-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 	box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
-
-@media (min-width: 640px) {
-
-	.sm\:w-80 {
-		width: 20rem;
-	}
-}
-
 @media (min-width: 768px) {
 
 	.md\:w-\[360px\] {
@@ -1041,16 +976,11 @@ video {
 		font-size: 3rem;
 	}
 }
-
 @media (min-width: 1024px) {
 
 	.lg\:mx-auto {
 		margin-left: auto;
 		margin-right: auto;
-	}
-
-	.lg\:mt-\[-30px\] {
-		margin-top: -30px;
 	}
 
 	.lg\:mt-\[-50px\] {
@@ -1097,20 +1027,8 @@ video {
 		width: 850px;
 	}
 
-	.lg\:w-\[750px\] {
-		width: 750px;
-	}
-
 	.lg\:w-\[300px\] {
 		width: 300px;
-	}
-
-	.lg\:w-full {
-		width: 100%;
-	}
-
-	.lg\:w-1\/2 {
-		width: 50%;
 	}
 
 	.lg\:w-4\/5 {
@@ -1146,7 +1064,6 @@ video {
 		font-size: 1.25rem;
 	}
 }
-
 @media (min-width: 1536px) {
 
 	.\32xl\:w-3\/4 {
