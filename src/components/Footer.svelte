@@ -16,7 +16,7 @@
   </div>
   <p
     class="text-center text-[#003869] w-80 lg:w-4/5 font-light pb-8 text-[14px]
-    font-poppins lg:mt-[-50px] leading-4 m-auto pb-16">
+    font-poppins lg:mt-[-50px] leading-4 m-auto pb-16 pt-6">
     Esse produto é comercializado com apoio da Hotmart. A plataforma não faz
     controle editorial prévio dos produtos comercializados, nem avalia a
     tecnicidade e experiência daqueles que os produzem. A existência de um
