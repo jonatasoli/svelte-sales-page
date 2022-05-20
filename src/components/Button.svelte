@@ -1,8 +1,7 @@
-<div class="my-12">
+<div class="my-12 h-30 bg-[#003869] rounded py-4 px-2  shadow-2xl  lg:w-[400px] lg:mx-auto m-4">
     <a
-      class="bg-[#003869] text-white font-bold py-4 px-2 lg:px-32 shadow-2xl rounded
-      text-xl font-poppins"
-      href="https://pay.hotmart.com/D65291467L?checkoutMode=0&bid=1644949434713">
-      > SIM, EU QUERO COMEÇAR AGORA!
+      class="text-white font-bold text-xl font-poppins text-center"
+      href="https://pay.hotmart.com/D65291467L?checkoutMode=0&bid=1644949434713"> 
+      <p>> SIM, EU QUERO COMEÇAR AGORA!</p>
     </a> 
 </div>

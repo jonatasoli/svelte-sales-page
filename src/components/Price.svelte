@@ -2,7 +2,7 @@
   import Button from './Button.svelte'
 </script>
 
-<div class="text-center bg-[#f2f2f2] ">
+<div class="text-center bg-[#f2f2f2] p-4">
   <div class="w-11/12 md:w-7/11 m-auto">
     <h2 class="font-poppins text-xl font-bold pt-6">
       E quanto você vai investir para aprender francês em até 3 meses e realizar

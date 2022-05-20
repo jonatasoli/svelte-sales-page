@@ -8,6 +8,12 @@
     }
     @font-face {
         font-family: 'Poppins';
+        src: local('Poppins'), url('./fonts/poppins-v20-latin-300.woff') format('woff');
+        font-weight: 300;
+        font-display: swap;
+    }
+    @font-face {
+        font-family: 'Poppins';
         src: local('Poppins'), url('./fonts/poppins-v20-latin-400.woff') format('woff');
         font-weight: 400;
         font-display: swap;

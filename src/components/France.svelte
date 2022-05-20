@@ -7,7 +7,7 @@
   <div class="bg-[#478E88] w-3/4 mt-2">
     <h2>Já se imaginou viajando, morando ou</h2>
   </div>
-  <div class="bg-[#478E88] w-5/6 mt-2">
+  <div class="bg-[#478E88] w-5/6">
     <h2>
       estudando na França e conseguindo se comunicar sem dificuldade neste país
       lindo?
