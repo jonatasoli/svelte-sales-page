@@ -57,7 +57,7 @@
           image={module.image}
           title={module.title}
           content={module.content}
-          classWidth='md:w-[360px]' />
+          classWidth='w-[360px]' />
       {/each}
     </div>
   </div>

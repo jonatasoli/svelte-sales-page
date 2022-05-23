@@ -750,6 +750,12 @@ video {
 .w-80 {
 	width: 20rem;
 }
+<<<<<<< HEAD
+=======
+.w-\[360px\] {
+	width: 360px;
+}
+>>>>>>> origin/master
 .flex-col {
 	flex-direction: column;
 }
@@ -954,6 +960,10 @@ video {
 	--tw-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 	box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 @media (min-width: 768px) {
 
 	.md\:w-\[360px\] {
