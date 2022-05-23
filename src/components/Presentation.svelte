@@ -11,7 +11,7 @@
         gastronomia
       </p>
       <div class="m-auto lg:w-[500px] border-t border-gray-600 my-8"></div>
-      <div class="w-9/12 m-auto">
+      <div class="w-9/12 m-auto text-center lg:text-left">
         <p class="pt-4 text-[#212529CC]">
           Sou brasileira, moro em São Paulo e ensino francês desde 2008.
         </p>
