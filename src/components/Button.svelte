@@ -2,7 +2,7 @@
 
   <a
       class="text-white font-bold text-xl font-poppins text-center"
-      href="https://pay.hotmart.com/D65291467L?checkoutMode=0&bid=1644949434713"> 
+      href="https://pay.hotmart.com/D65291467L?checkoutMode=10"> 
       <p>> SIM, EU QUERO COMEÇAR AGORA!</p>
     </a> 
 </div>
