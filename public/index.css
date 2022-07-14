@@ -797,10 +797,6 @@ video {
 	--tw-bg-opacity: 1;
 	background-color: rgba(71, 142, 136, var(--tw-bg-opacity));
 }
-.bg-\[\#a81c0b\] {
-	--tw-bg-opacity: 1;
-	background-color: rgba(168, 28, 11, var(--tw-bg-opacity));
-}
 .bg-header {
 	background-image: url('images/Paris-a-noite.webp');
 }
